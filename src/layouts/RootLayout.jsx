@@ -11,7 +11,7 @@ const RootLayout = ({ children }) => {
 
           <Navbar />
 
-          <div className='p-2 md:p-5 '>{children}</div>
+          <div className=''>{children}</div>
 
           </main>
     </div>
