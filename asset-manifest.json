@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_ahla/static/css/main.0ee578b9.css",
-    "main.js": "/react_ahla/static/js/main.16915dda.js",
+    "main.css": "/react_ahla/static/css/main.cc62eeae.css",
+    "main.js": "/react_ahla/static/js/main.5d94c74d.js",
     "static/media/ahlaLG7.png": "/react_ahla/static/media/ahlaLG7.a52c5c8f6fbb473755a4.png",
     "index.html": "/react_ahla/index.html",
-    "main.0ee578b9.css.map": "/react_ahla/static/css/main.0ee578b9.css.map",
-    "main.16915dda.js.map": "/react_ahla/static/js/main.16915dda.js.map"
+    "main.cc62eeae.css.map": "/react_ahla/static/css/main.cc62eeae.css.map",
+    "main.5d94c74d.js.map": "/react_ahla/static/js/main.5d94c74d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ee578b9.css",
-    "static/js/main.16915dda.js"
+    "static/css/main.cc62eeae.css",
+    "static/js/main.5d94c74d.js"
   ]
 }
